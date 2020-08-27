@@ -1,6 +1,6 @@
 #!/bin/sh -l
 
-token=$RANCHER_TOKEN
+token="$RANCHER_TOKEN"
 context=c-6c6cm:p-djpmf
 url=https://devcontrol.edjx.network/v3
 
