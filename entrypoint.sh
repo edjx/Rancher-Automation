@@ -1,6 +1,6 @@
 #!/bin/sh -l
 
-token=token-lbqsh:m5fxt7d56kgt756n9pvlcjhnksbmg46hp9jf8zlmwbsqbxvmztxn2f 
+token=$RANCHER_TOKEN
 context=c-6c6cm:p-djpmf
 url=https://devcontrol.edjx.network/v3 
 
