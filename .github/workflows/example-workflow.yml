@@ -10,6 +10,6 @@ jobs:
         uses: colbyhill21/Rancher-Action@1.1
         with:
           args: '"get pods"'
-          token: ${{ secrets.RANCHER_TOKEN }}
-          context: ${{ secrets.RANCHER_CONTEXT }}
-          url: ${{ secrets.RANCHER_URL }}
+          token: ${{ secrets.TOKEN }}
+          context: ${{ secrets.CONTEXT }}
+          url: ${{ secrets.URL }}
