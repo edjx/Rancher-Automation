@@ -9,7 +9,7 @@ jobs:
       - name: Rancher CLI Action
         uses: colbyhill21/Rancher-Action@1.1
         with:
-          args: '"get pods"'
+          args: '"context current"'
           token: ${{ secrets.TOKEN }}
           context: ${{ secrets.CONTEXT }}
           url: ${{ secrets.URL }}
