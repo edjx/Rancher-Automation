@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest    
     steps:
       - name: Rancher CLI Action
-        uses: colbyhill21/Rancher-Action@1.1
+        uses: edjx/Rancher-Action@1.1
         with:
           args: '"context current"'
           token: ${{ secrets.TOKEN }}
