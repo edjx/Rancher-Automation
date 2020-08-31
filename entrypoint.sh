@@ -1,5 +1,5 @@
 #!/bin/sh -l
-token=token-8vvsk:j4bjbfh7xmhhkmrsdszml5k2sknm6g4xhrh89vhl74njn7t55dl7pm
+token=token-65522:qzbpgzxp9fsr2jc47hdd25pztkp9dfxrgv7xzjcjlj6rkrprz77h4j
 context=c-6c6cm:p-djpmf
 url=https://devcontrol.edjx.network/v3
 
